@@ -1,0 +1,9 @@
+[submodule "data-structure"]
+	path = data-structure
+	url = git@github.com:tyksdaf/data-structure.git
+[submodule "cmake"]
+	path = cmake
+	url = git@github.com:tyksdaf/cmake.git
+[submodule "Makefile"]
+	path = Makefile
+	url = git@github.com:tyksdaf/Makefile.git
